@@ -1,4 +1,4 @@
 # New-Repository
-this is a repository.
+This is a repository.
 <b>
 Author - ujala
